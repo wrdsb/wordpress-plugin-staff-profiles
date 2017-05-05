@@ -1,2 +1,2 @@
-# wordpress-plugin-staff-profiles
-Custom user profiles for our Staff Intranet
+# Staff Profiles
+Custom user profiles for our Staff Intranet.
