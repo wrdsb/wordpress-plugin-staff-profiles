@@ -9,21 +9,23 @@
  * that starts the plugin.
  *
  * @link              https://www.wrdsb.ca
- * @since             1.0.0
+ * @since             0.0.1
  * @package           Wrdsb_Staff_Profiles
  *
  * @wordpress-plugin
  * Plugin Name:       WRDSB Staff Profiles
  * Plugin URI:        https://github.com/wrdsb/wordpress-plugin-staff-profiles
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Description:       Profile tweaks, custom meta fields, user roles, and API endpoints for Users in our Staff Intranet.
+ * Version:           0.0.1
  * Author:            WRDSB
  * Author URI:        https://www.wrdsb.ca
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPLv3 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       wrdsb-staff-profiles
  * Domain Path:       /languages
- */
+ * GitHub Plugin URI: wrdsb/wordpress-plugin-staff-profiles
+ * GitHub Branch:     master
+*/
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
