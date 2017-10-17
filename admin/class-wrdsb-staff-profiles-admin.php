@@ -4,7 +4,7 @@
  * The admin-specific functionality of the plugin.
  *
  * @link       https://www.wrdsb.ca
- * @since      1.0.0
+ * @since      0.0.1
  *
  * @package    Wrdsb_Staff_Profiles
  * @subpackage Wrdsb_Staff_Profiles/admin
@@ -25,7 +25,7 @@ class Wrdsb_Staff_Profiles_Admin {
 	/**
 	 * The ID of this plugin.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.1
 	 * @access   private
 	 * @var      string    $plugin_name    The ID of this plugin.
 	 */
@@ -34,7 +34,7 @@ class Wrdsb_Staff_Profiles_Admin {
 	/**
 	 * The version of this plugin.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.1
 	 * @access   private
 	 * @var      string    $version    The current version of this plugin.
 	 */
@@ -43,9 +43,9 @@ class Wrdsb_Staff_Profiles_Admin {
 	/**
 	 * Initialize the class and set its properties.
 	 *
-	 * @since    1.0.0
-	 * @param      string    $plugin_name       The name of this plugin.
-	 * @param      string    $version    The version of this plugin.
+	 * @since    0.0.1
+	 * @param    string    $plugin_name       The name of this plugin.
+	 * @param    string    $version    The version of this plugin.
 	 */
 	public function __construct( $plugin_name, $version ) {
 
@@ -57,7 +57,7 @@ class Wrdsb_Staff_Profiles_Admin {
 	/**
 	 * Register the stylesheets for the admin area.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.1
 	 */
 	public function enqueue_styles() {
 
@@ -80,7 +80,7 @@ class Wrdsb_Staff_Profiles_Admin {
 	/**
 	 * Register the JavaScript for the admin area.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.1
 	 */
 	public function enqueue_scripts() {
 

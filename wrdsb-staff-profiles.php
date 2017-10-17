@@ -66,7 +66,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-wrdsb-staff-profiles.php';
  * then kicking off the plugin from this point in the file does
  * not affect the page life cycle.
  *
- * @since    1.0.0
+ * @since    0.0.1
  */
 function run_wrdsb_staff_profiles() {
 

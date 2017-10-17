@@ -6,7 +6,7 @@
  * This file is used to markup the public-facing aspects of the plugin.
  *
  * @link       https://www.wrdsb.ca
- * @since      1.0.0
+ * @since      0.0.1
  *
  * @package    Wrdsb_Staff_Profiles
  * @subpackage Wrdsb_Staff_Profiles/public/partials
